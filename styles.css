@@ -2,8 +2,10 @@ body {
     text-align: center;  
     font-family: "Lucida Console";
     color: DarkSlateGray;
+<body style="background-color:PowderBlue">
+    "
 }
 img { 
     width: 648px;
     height: 432px;
-    text-align: center;
+    text-align: center; 
